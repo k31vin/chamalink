@@ -46,7 +46,7 @@ const Dashboard = () => {
     monthlyContributions: 0
   });
 
-  const { user } = useAuth();
+  const { user, signOut } = useAuth();
   const { toast } = useToast();
 
   const fetchNotifications = useCallback(async () => {
