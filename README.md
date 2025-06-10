@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ChamaLink Logo](public/placeholder.svg)
+![ChamaLink Demo](public/readme.png)
 
 **Revolutionizing Community Savings and Group Finance in Kenya**
 
@@ -13,6 +13,16 @@
 [![M-PESA](https://img.shields.io/badge/M--PESA-00A86B?logo=safaricom&logoColor=white)](https://www.safaricom.co.ke/personal/m-pesa)
 
 </div>
+
+---
+
+## 🚀 Live Demo
+
+[![Vercel](https://vercel.com/button)](https://chamalink-nine.vercel.app/)
+
+**Try ChamaLink live:** [https://chamalink-nine.vercel.app/](https://chamalink-nine.vercel.app/)
+
+---
 
 ## 📖 Table of Contents
 
