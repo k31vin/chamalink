@@ -1,0 +1,39 @@
+{
+    "compilerOptions": {
+        "allowImportingTsExtensions": true,
+        "allowJs": true,
+        "checkJs": false,
+        "emitDecoratorMetadata": false,
+        "experimentalDecorators": false,
+        "jsx": "react-jsx",
+        "jsxImportSource": "react",
+        "lib": [
+            "deno.window"
+        ],
+        "strict": true,
+        "types": [
+            "https://deno.land/x/types/index.d.ts"
+        ]
+    },
+    "lint": {
+        "include": [
+            "index.ts"
+        ],
+        "rules": {
+            "tags": [
+                "recommended"
+            ]
+        }
+    },
+    "fmt": {
+        "include": [
+            "index.ts"
+        ],
+        "indentWidth": 2,
+        "lineWidth": 80,
+        "proseWrap": "preserve",
+        "semiColons": false,
+        "singleQuote": true,
+        "useTabs": false
+    }
+}
